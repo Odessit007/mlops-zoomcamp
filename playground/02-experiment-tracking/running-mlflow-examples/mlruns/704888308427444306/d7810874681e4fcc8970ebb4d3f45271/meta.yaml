@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ivustianiu/PycharmProjects/mlops-zoomcamp/playground/02-experiment-tracking/running-mlflow-examples/mlruns/704888308427444306/d7810874681e4fcc8970ebb4d3f45271/artifacts
+end_time: 1716582845932
+entry_point_name: ''
+experiment_id: '704888308427444306'
+lifecycle_stage: active
+run_id: d7810874681e4fcc8970ebb4d3f45271
+run_name: capable-mole-174
+run_uuid: d7810874681e4fcc8970ebb4d3f45271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716582842767
+status: 3
+tags: []
+user_id: ivustianiu
